@@ -38,7 +38,7 @@ def send(target, counter, delay):
         banner()
         api = random.choice(list(bombers))
 
-        print("===================CYBER KALLAN BOMBING SYSTEM====================")
+        print("===================SHADOW BOMBING SYSTEM====================")
         print("                BOMBING in progress, please wait !!               ")
         print("     Please keep your data connection active during bombing !!    ")
         print("==================================================================")
@@ -48,7 +48,7 @@ def send(target, counter, delay):
         print("             Failed Requests         : ", failed)
         print("             API used to BOMB Target : ", api)
         print("==================================================================")
-        print(".         SUBSCRIBE CYBER KALLAN YOUTUBE CHANNEL FOR MORE         ")
+        print(".          Allways be a good hacker       ")
         print("              Use this for fun, not for revenge !!                ")
         print("==================================================================")
 
